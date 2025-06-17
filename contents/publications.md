@@ -1,6 +1,2 @@
-- XXXXXXX论文
-
-- XXXXXXX论文
-
-- XXXXXXX论文
-
+- Haizhaoyang Huang, and Hongpo Zhang. An Online Intrusion Detection Method using Adaptive Multi-Level Classifier Network and PCA-Guided Model Reuse Mechanism[C].2025 4th International Conference on Cryptography, Network Security and Communication Technology(CNSCT)
+- Hongpo Zhang, Bo Zhang, Lulu Huang, Zhaozhe Zhang, and Haizhaoyang Huang. An Efficient Two-Stage Network Intrusion Detection System in the Internet of Things [J]. Information2023, 14(2): 77.
