@@ -1,20 +1,17 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Master's degree in Zhengzhou University, Cyber Science and Engineering.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>872111380@qq.com</code>  
+<code>hhzy1031@163.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Zhengzhou University**, Master of Cyber Science and Engineering (2022 – 2025)  
+• GPA: 3.92/4.5  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Zhengzhou University of Light Industry**, Bachelor of Computer Science and Technology (2018 – 2022)  
+• GPA: 3.65/5.0  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Intrusion detection, Machine Learning, Few shot, Concept drift.
